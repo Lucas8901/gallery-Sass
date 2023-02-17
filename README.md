@@ -12,7 +12,7 @@
   </div>
   
  <br>
- <p> Teste em seu dispositivo📱: <br> https://desafio-08-codelandia-codemoji.vercel.app</p>
+ <p> Teste em seu dispositivo📱: <br> https://gallery-sass.vercel.app/</p>
  <br>
 
 <br>
