@@ -8,7 +8,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Desafio-08-Codelandia-Codemoji/blob/main/gif/bandicam%202023-01-24%2018-30-08-859.gif"/>
+  <img src="https://github.com/Lucas8901/gallery-Sass/blob/main/gif/bandicam%202023-02-16%2021-18-00-496.gif"/>
   </div>
   
  <br>
@@ -23,7 +23,7 @@
 <p align="left">Estas foram as tecnologias utilizadas durante a construção do projeto <br>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 </p>
 <br>
