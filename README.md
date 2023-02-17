@@ -12,7 +12,7 @@
   </div>
   
  <br>
- <p> Teste em seu dispositivo📱: <br> https://gallery-sass.vercel.app/</p>
+ <p> Teste em seu dispositivo📱:  https://gallery-sass.vercel.app/</p>
  <br>
 
 <br>
